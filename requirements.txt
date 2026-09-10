@@ -1,0 +1,2 @@
+# 采集与分析只用 Python 标准库；出图需要 matplotlib
+matplotlib>=3.8

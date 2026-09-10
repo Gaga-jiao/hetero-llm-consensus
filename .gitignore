@@ -1,0 +1,8 @@
+# 数据与凭据绝不入库
+*.token
+llm-keys.json
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
